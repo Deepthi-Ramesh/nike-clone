@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nike-clone.github.io/static/css/main.ae0ab5b8.css",
+    "main.js": "/nike-clone.github.io/static/js/main.8a4a4a6d.js",
+    "static/js/787.488b4793.chunk.js": "/nike-clone.github.io/static/js/787.488b4793.chunk.js",
+    "static/media/Roboto-Bold.ttf": "/nike-clone.github.io/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "index.html": "/nike-clone.github.io/index.html",
+    "main.ae0ab5b8.css.map": "/nike-clone.github.io/static/css/main.ae0ab5b8.css.map",
+    "main.8a4a4a6d.js.map": "/nike-clone.github.io/static/js/main.8a4a4a6d.js.map",
+    "787.488b4793.chunk.js.map": "/nike-clone.github.io/static/js/787.488b4793.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae0ab5b8.css",
+    "static/js/main.8a4a4a6d.js"
+  ]
+}
